@@ -1,5 +1,15 @@
 # Local-Alignment-Problem  
 algorithm，bioinfoematics，Dynamic programming  
+/*  
+author wangyang   
+address School of computer science ,xidian university   
+time 2018/10/5  
+e-mail wangyang_cs2014@163.com  
+this project is solve the problem that about longest common subsequence (LCS) problem.  
+References "https://en.wikipedia.org/wiki/Longest_common_subsequence_problem".  
+if you have any question ,plaese write letter give me for e-mail.    
+welcome you visit;  
+*/
 # problem describe  
 The Smith–Waterman algorithm performs local sequence alignment; that is, for determining similar regions between two strings of nucleic acid sequences or protein sequences. Instead of looking at the entire sequence, the Smith–Waterman algorithm compares segments of all possible lengths and optimizes the similarity measure.  
 # Algorithm  
