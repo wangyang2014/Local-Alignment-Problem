@@ -1,0 +1,4 @@
+﻿  LAPClass.cpp
+d:\documents\visual studio 2017\projects\local alignment problem\local alignment problem\lapclass.h(15): warning C4091: “typedef ”: 没有声明变量时忽略“point”的左侧
+d:\documents\visual studio 2017\projects\local alignment problem\local alignment problem\lapclass.cpp(145): warning C4018: “<”: 有符号/无符号不匹配
+  local alignment problem.vcxproj -> d:\Documents\Visual Studio 2017\Projects\local alignment problem\Debug\local alignment problem.exe
