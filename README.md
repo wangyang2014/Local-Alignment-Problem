@@ -6,7 +6,7 @@ address School of computer science ,xidian university
 time 2018/10/5  
 e-mail wangyang_cs2014@163.com  
 this project is solve the problem that about longest common subsequence (LCS) problem.  
-References "https://en.wikipedia.org/wiki/Longest_common_subsequence_problem".  
+References "https://en.wikipedia.org/wiki/Smith%E2%80%93Waterman_algorithm".  
 if you have any question ,plaese write letter give me for e-mail.    
 welcome you visit;  
 */
